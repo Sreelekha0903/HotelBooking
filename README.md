@@ -74,7 +74,7 @@ Used Kfold cross validation to ensure we are not overfitting the model.
 
 Used RFE algorithm to find out significant features for the model and removed insignificant features. 
 
-4. Evaluation metrics: 
+5. Evaluation metrics: 
 
 I chose “average f1 score” to evaluate the accuracy of the model and also to tune the hyper parameters of the model. 
 
